@@ -182,7 +182,7 @@ nav li a:hover {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
-    margin: 1rem 0 0;
+    margin: 1.7rem 0 1.1rem;
 }
 
 /*Banner/About Section  page only*/
@@ -200,7 +200,7 @@ nav li a:hover {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    margin: 1rem 0 0;
+    margin: 1.7rem 0 0;
 }
 
 /*Banner/Instructors Section  page only*/
@@ -209,7 +209,7 @@ nav li a:hover {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
-    margin: 1rem 0 0;
+    margin: 1.7rem 0 0;
 }
 .lessons section {
     background-color: #94877e;
