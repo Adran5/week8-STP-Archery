@@ -1,8 +1,8 @@
 /* TEAM */
 
-This prject is part of a UW HTML5 & CSS Group Assignment. This site was for educational purposes only. 
+This prject was part of a UW HTML5 & CSS3 Group Assignment. This site was for educational purposes only. 
 Name: Adran Nakagawa
-Role: PM, Consistency throughout site, CSS Rework, Instructors page
+Role: PM, Consistency throughout site, CSS Rework, Instructors page.
 Site: https://github.com/Adran5                 
 
 Name: Dax Nacu
